@@ -8,4 +8,4 @@ Developer:
 Ronal Damanik - lotbiner.my.id
 
 Notes:
-Selama web https://m.fimela.com/zodiak/ aktif maka script ini dipastikan bisa tetap berjalan sebagaimana mestinya.
+Selama web m.fimela.com aktif maka script ini dipastikan bisa tetap berjalan sebagaimana mestinya.
