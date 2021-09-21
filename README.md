@@ -9,3 +9,4 @@ Ronal Damanik - lotbiner.my.id
 
 Notes:
 Selama web m.fimela.com aktif maka script ini dipastikan bisa tetap berjalan sebagaimana mestinya.
+Support untuk PHP 7 atau diatasnya
